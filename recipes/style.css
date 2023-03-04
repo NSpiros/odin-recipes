@@ -1,0 +1,61 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;500;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@100;300;400&display=swap');
+
+
+
+body {
+    font-family: 'Lato','Times New Roman',sans-serif;
+    font-size: 16px;
+    background-color: rgb(197, 195, 195);
+}
+
+
+h1,
+h2,
+h3 {
+    font-family: 'Playfair Display','Times New Roman', Times, serif;
+    text-align: center;
+}
+
+h1 {
+    font-weight: 700;
+    font-size: 60px;
+   
+}
+
+h2 {
+    font-weight: 600;
+    font-size: 45px;
+}
+
+h3 {
+    font-weight: 600;
+    font-size: 40px;
+}
+
+ul {
+    list-style-type: none;
+    text-decoration: none;  
+}
+
+a {
+    text-decoration: none;
+    color: rgb(34, 29, 95);
+}
+
+.header-pages {
+    text-align: center;
+    font-size: 20px;
+}
+
+.description_text {
+    font-size: 18px;
+    text-align: center;   
+}
+
+.homepage-link {
+    text-align: center;
+    
+}
+
+
